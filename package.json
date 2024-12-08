@@ -27,7 +27,7 @@
     "fastify-cors": "^3.0.3",
     "fastify-multipart": "1.0.6",
     "fastify-swagger": "^2.6.0",
-    "flutterwave-node-v3": "^1.0.9",
+    "flutterwave-node-v3": "^1.0.12",
     "googleapis": "^51.0.0",
     "hoss": "^1.1.1",
     "jimp": "^0.16.1",
